@@ -1,2 +1,2 @@
-# janeski
+# Miroslav Janeski
 Personal Blog
